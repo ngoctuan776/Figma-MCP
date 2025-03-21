@@ -15,7 +15,6 @@ npx figma-developer-mcp --figma-api-key=<your-figma-api-key>
 [Watch a demo of building a UI in Cursor with Figma design data](https://youtu.be/6G9yb-LrEqg)
 [![Watch the video](https://img.youtube.com/vi/6G9yb-LrEqg/maxresdefault.jpg)](https://youtu.be/6G9yb-LrEqg)
 
-<a href="https://glama.ai/mcp/servers/kcftotr525"><img width="380" height="200" src="https://glama.ai/mcp/servers/kcftotr525/badge" alt="Figma Server MCP server" /></a>
 
 ## How it works
 
